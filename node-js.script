@@ -1,0 +1,12 @@
+let visitors = 12;
+
+if (visitors > 10) {
+  console.log("Busy day at the shelter!");
+} else {
+  console.log("Quiet day.");
+}
+
+if (visitors > 0) {
+  console.log("Someone came to see the cats.");
+}
+console.log("Doors closed.");
