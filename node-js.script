@@ -7,6 +7,6 @@ if (visitors > 10) {
 }
 
 if (visitors > 0) {
-  console.log("Someone came to see the cats.");
+  console.log("Someone came to see the dogs.");
 }
 console.log("Doors closed.");
